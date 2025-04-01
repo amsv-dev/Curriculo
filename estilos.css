@@ -176,7 +176,7 @@ section {
 
 /* Secção Início */
 #inicio {
-  background: linear-gradient(135deg, #1a237e 0%, #0d47a1 100%);
+  background: linear-gradient(135deg, #3498db 0%, #2980b9 100%);
   min-height: 100vh;
   padding: 100px 0;
   color: #fff;
@@ -601,3 +601,4 @@ footer .social-icons {
 .hero-image:hover {
   transform: scale(1.05);
 }
+
